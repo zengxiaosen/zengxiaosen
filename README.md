@@ -48,4 +48,4 @@ Java · Go · Scala · Python · Flink / Spark / Kafka · Kubernetes
 ---
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1413--5411-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-1413-5411)
-[![百度学术](https://img.shields.io/badge/百度学术-作者检索-2932E1)](https://xueshu.baidu.com/ndscholar/browse/search?wd=author%3A%28%E6%9B%BE%E6%99%93%E6%A3%AE%29)
+[![Baidu Xueshu](https://img.shields.io/badge/Baidu%20Xueshu-author%20search-2932E1)](https://xueshu.baidu.com/ndscholar/browse/search?wd=author%3A%28%E6%9B%BE%E6%99%93%E6%A3%AE%29)
