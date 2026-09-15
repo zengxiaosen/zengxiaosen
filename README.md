@@ -30,9 +30,9 @@ Java · Go · Scala · Python · Flink / Spark / Kafka · Kubernetes
 
 均为腾讯微信支付期间申请:
 
-- **业务稳态检测方法及系统** — 服务稳态检测,出自混沌工程那条线
-- **数据处理方法、装置、电子设备及计算机可读存储介质**
-- **数据处理方法、装置、计算机可读存储介质和计算机设备**
+- [**业务稳态检测方法及系统**](https://xueshu.baidu.com/s?wd=%E4%B8%9A%E5%8A%A1%E7%A8%B3%E6%80%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E5%8F%8A%E7%B3%BB%E7%BB%9F%20%E6%9B%BE%E6%99%93%E6%A3%AE) — 服务稳态检测,出自混沌工程那条线
+- [**数据处理方法、装置、电子设备及计算机可读存储介质**](https://xueshu.baidu.com/s?wd=%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E6%96%B9%E6%B3%95%E3%80%81%E8%A3%85%E7%BD%AE%E3%80%81%E7%94%B5%E5%AD%90%E8%AE%BE%E5%A4%87%E5%8F%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%AF%BB%E5%AD%98%E5%82%A8%E4%BB%8B%E8%B4%A8%20%E6%9B%BE%E6%99%93%E6%A3%AE)
+- [**数据处理方法、装置、计算机可读存储介质和计算机设备**](https://xueshu.baidu.com/s?wd=%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E6%96%B9%E6%B3%95%E3%80%81%E8%A3%85%E7%BD%AE%E3%80%81%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AF%E8%AF%BB%E5%AD%98%E5%82%A8%E4%BB%8B%E8%B4%A8%E5%92%8C%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AE%BE%E5%A4%87%20%E6%9B%BE%E6%99%93%E6%A3%AE)
 
 #### 部分仓库
 
