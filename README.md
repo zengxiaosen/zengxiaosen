@@ -11,10 +11,16 @@ I work on where frontier ML actually lands in production — finance, power grid
 #### Selected publications
 
 - **Construction and Inference Method of Knowledge Graph for Power Grid Fault Diagnosis Based on Federated Deep Learning** — IEEE ICCECT 2026 · [10.1109/ICCECT68671.2026.11565449](https://doi.org/10.1109/iccect68671.2026.11565449)
-- **Blockchain Quantitative Model Training Integrating Image Processing and Federated Learning: Asset Price Prediction for Multi-Institution Privacy Protection** — IEEE ICPEGE 2026 · [10.1109/ICPEGE67691.2026.11451285](https://doi.org/10.1109/icpege67691.2026.11451285)
+- **Blockchain Quantitative Model Training Method Integrating Image Processing and Federated Learning: Asset Price Prediction for Multi-Institution Privacy Protection** — IEEE ICPEGE 2026 · [10.1109/ICPEGE67691.2026.11451285](https://doi.org/10.1109/icpege67691.2026.11451285)
 - **An Effective Load Balance Using Link Bandwidth for SDN-Based Data Centers** — LNCS, Springer 2019 · [10.1007/978-3-030-24268-8_24](https://doi.org/10.1007/978-3-030-24268-8_24)
 
-Patents filed at Tencent cover service steady-state detection and data processing pipelines.
+#### Patents
+
+Filed during my time at Tencent (WeChat Pay):
+
+- 业务稳态检测方法及系统 — service steady-state detection
+- 数据处理方法、装置、电子设备及计算机可读存储介质
+- 数据处理方法、装置、计算机可读存储介质和计算机设备
 
 #### A few repos
 
