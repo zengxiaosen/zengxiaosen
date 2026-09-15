@@ -1,12 +1,14 @@
 ### Hi, I'm Xiaosen Zeng (曾晓森)
 
-VP at CITIC Securities. Previously Senior Engineer at Tencent (WeChat Pay).
+VP at CITIC Securities. Previously Senior Engineer at Tencent (WeChat Pay), before that Alibaba's ad platform.
 I work on where frontier ML actually lands in production — finance, power grids, telecom, and the distributed systems underneath them.
 
 
-- **Currently** — federated learning and knowledge graphs for industrial systems; LLM/Agent infrastructure
-- **Before** — payment systems at scale, ad DSP bidding, SDN/NFV traffic engineering
+- **CITIC Securities** — VP. Federated learning and knowledge graphs for industrial systems; LLM/Agent infrastructure
+- **Tencent, WeChat Pay** (2019–2024) — infrastructure. Utility bill payments, WeChat Pay Score, chaos engineering
+- **Alimama** — Alibaba's advertising platform
 - **Stack** — Java · Go · Scala · Python · Flink / Spark / Kafka · Kubernetes
+- **Interests** — LLM · Agent · DL/ML · SDN/NFV · 6G · blockchain
 
 #### Selected publications
 
@@ -18,7 +20,7 @@ I work on where frontier ML actually lands in production — finance, power grid
 
 Filed during my time at Tencent (WeChat Pay):
 
-- 业务稳态检测方法及系统 — service steady-state detection
+- 业务稳态检测方法及系统 — service steady-state detection, out of the chaos engineering work
 - 数据处理方法、装置、电子设备及计算机可读存储介质
 - 数据处理方法、装置、计算机可读存储介质和计算机设备
 
