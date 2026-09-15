@@ -22,8 +22,8 @@ Java · Go · Scala · Python · Flink / Spark / Kafka · Kubernetes
 
 #### 论文
 
-- **Construction and Inference Method of Knowledge Graph for Power Grid Fault Diagnosis Based on Federated Deep Learning** — IEEE ICCECT 2026 · [10.1109/ICCECT68671.2026.11565449](https://doi.org/10.1109/iccect68671.2026.11565449)
-- **Blockchain Quantitative Model Training Method Integrating Image Processing and Federated Learning: Asset Price Prediction for Multi-Institution Privacy Protection** — IEEE ICPEGE 2026 · [10.1109/ICPEGE67691.2026.11451285](https://doi.org/10.1109/icpege67691.2026.11451285)
+- **Construction and Inference Method of Knowledge Graph for Power Grid Fault Diagnosis Based on Federated Deep Learning** — IEEE ICCECT 2026 · [10.1109/ICCECT68671.2026.11565449](https://doi.org/10.1109/iccect68671.2026.11565449) · [Semantic Scholar](https://www.semanticscholar.org/paper/96a48afa281a4b5362f54382c853d6f233265b82)
+- **Blockchain Quantitative Model Training Method Integrating Image Processing and Federated Learning: Asset Price Prediction for Multi-Institution Privacy Protection** — IEEE ICPEGE 2026 · [10.1109/ICPEGE67691.2026.11451285](https://doi.org/10.1109/icpege67691.2026.11451285) · [Semantic Scholar](https://www.semanticscholar.org/paper/b51ff74860d9e1afb32ec5363d80a2dfb314185b)
 - **An Effective Load Balance Using Link Bandwidth for SDN-Based Data Centers** — LNCS, Springer 2019 · [10.1007/978-3-030-24268-8_24](https://doi.org/10.1007/978-3-030-24268-8_24)
 
 #### 专利
