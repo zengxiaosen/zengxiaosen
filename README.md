@@ -6,7 +6,7 @@ I work on where frontier ML actually lands in production — finance, power grid
 
 - **CITIC Securities** — VP. Foundation models, agents, and federated learning for industrial systems
 - **Tencent, WeChat Pay** (2019–2024) — infrastructure. Utility bill payments, WeChat Pay Score, chaos engineering
-- **Alibaba** (2016–2019, internships) — Alibaba Digital Media & Entertainment, Alimama, Alibaba Health
+- **Alibaba** (internships) — Digital Media & Entertainment and Alimama (2016–2017), Alibaba Health (2018)
 - **Stack** — Java · Go · Scala · Python · Flink / Spark / Kafka · Kubernetes
 
 #### Current research
