@@ -4,11 +4,17 @@ VP at CITIC Securities. Previously Senior Engineer at Tencent (WeChat Pay).
 I work on where frontier ML actually lands in production — finance, power grids, telecom, and the distributed systems underneath them.
 
 
-- **CITIC Securities** — VP. Federated learning and knowledge graphs for industrial systems; LLM/Agent infrastructure
+- **CITIC Securities** — VP. Foundation models, agents, and federated learning for industrial systems
 - **Tencent, WeChat Pay** (2019–2024) — infrastructure. Utility bill payments, WeChat Pay Score, chaos engineering
 - **Alibaba** (2016–2019, internships) — Alibaba Digital Media & Entertainment, Alimama, Alibaba Health
 - **Stack** — Java · Go · Scala · Python · Flink / Spark / Kafka · Kubernetes
-- **Interests** — LLM · Agent · DL/ML · SDN/NFV · 6G · blockchain
+
+#### Current research
+
+- **Foundation models** — pre-training, post-training (SFT / RLHF / RLVR), reinforcement learning, deep learning
+- **Agents & AI products** — agent architectures, and taking them from research to shipped product
+- **Federated learning** — privacy-preserving training across institutions that can't pool data
+- **Applied domains** — power grids (fault diagnosis, knowledge graphs), 6G networks, quantitative finance
 
 #### Selected publications
 
