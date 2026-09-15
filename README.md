@@ -3,9 +3,10 @@
 VP at CITIC Securities. Previously Senior Engineer at Tencent (WeChat Pay).
 I work on where frontier ML actually lands in production — finance, power grids, telecom, and the distributed systems underneath them.
 
-**Currently** — federated learning and knowledge graphs for industrial systems; LLM/Agent infrastructure
-**Before** — payment systems at scale, ad DSP bidding, SDN/NFV traffic engineering
-**Stack** — Java · Go · Scala · Python · Flink / Spark / Kafka · Kubernetes
+
+- **Currently** — federated learning and knowledge graphs for industrial systems; LLM/Agent infrastructure
+- **Before** — payment systems at scale, ad DSP bidding, SDN/NFV traffic engineering
+- **Stack** — Java · Go · Scala · Python · Flink / Spark / Kafka · Kubernetes
 
 #### Selected publications
 
